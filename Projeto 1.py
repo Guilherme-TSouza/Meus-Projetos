@@ -47,3 +47,4 @@ if __name__ == "__main__":
 #Para alterar as quantidades e realizar novo calculo, 
 
 #acessar http://127.0.0.1:5000/?bolas_azuis= (ValorA) &bolas_amarelas= (ValorB) &bolas_verdes= (ValorC) 
+#Testando
