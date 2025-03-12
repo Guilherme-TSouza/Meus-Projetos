@@ -4,7 +4,11 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__) 
 
+<<<<<<< HEAD
  #outro comentario aleatorio
+=======
+ #mais um comentario
+>>>>>>> 0595e7d39a43a57935104298e8d832b81d5a27c8
 
 @app.route("/") 
 
